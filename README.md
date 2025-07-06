@@ -47,5 +47,5 @@ Feel free to fork the repo and create pull requests.
 ## 📫 Contact
 
 Devesh Tyagi — [GitHub Profile](https://github.com/deveshtyagi725)  
-Email: your-tyagidevesh809@gmail.com
+Email:tyagidevesh809@gmail.com
 
